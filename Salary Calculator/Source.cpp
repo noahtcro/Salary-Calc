@@ -1,9 +1,12 @@
 #include <iostream> //input-output streams
 #include <cstdlib> //mathmatical functions
 
-/*
-using namespace std;
-*/
+void salary();
+double sMonthly(double salary);
+double sWage(double salary);
+void wage();
+double wMonthly(double wage);
+double wAnnual(double wage);
 
 int main() {
 	int menu = 0;
@@ -90,4 +93,28 @@ int main() {
 			}
 		}
 	} while (menu != 3);
+}
+
+void salary() {
+
+}
+
+double sMonthly(double salary) {
+
+}
+
+double sWage(double salary) {
+
+}
+
+void wage() {
+
+}
+
+double wMonthly(double wage) {
+
+}
+
+double wAnnual(double wage) {
+
 }
