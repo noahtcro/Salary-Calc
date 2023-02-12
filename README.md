@@ -1,0 +1,2 @@
+# Salary-Calc
+Calculates salary.
